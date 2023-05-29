@@ -1,0 +1,7 @@
+UseTab: ForContinuationAndIndentation
+BasedOnStyle: Google
+IndentWidth: 2
+TabWidth: 2
+ColumnLimit: 80
+Standard: c++17
+SpacesBeforeTrailingComments: 1
